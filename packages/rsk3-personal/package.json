@@ -1,6 +1,6 @@
 {
   "name": "@rsksmart/rsk3-personal",
-  "version": "0.3.2",
+  "version": "0.3.3-alpha.0",
   "description": "rsk3 module to interact with the Ethereum blockchain accounts stored in the node.",
   "engines": {
     "node": ">=8.6.0"
